@@ -29,9 +29,9 @@ When **sha** errors, all saves will be *deleted* for data safe.
 
 # Configuration
 
-cmake minimum required: V3.25
-cmake standard: C++ 20
-MinGW version: 14.0 w64
-cmake exe linker flags: static
-The release version only runs on Window-64
+cmake minimum required: V3.25\
+cmake standard: C++ 20\
+MinGW version: 14.0 w64\
+cmake exe linker flags: static\
+The release version only runs on Window-64\
 Open Source License: [MIT LICENSE](LICENSE)
